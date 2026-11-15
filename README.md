@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://axiomos-src.github.io>
+  <a href="https://axiomos-src.github.io">
     <img width="353" height="339" alt="AxiomOS" src="https://github.com/user-attachments/assets/b59fe536-9b5b-4159-af38-1e41fd851f94" />
   </a>
 </p>
