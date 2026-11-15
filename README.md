@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://axiomos-src.github.io>
-    <img alt="AxiomOS" height="200px" src="image/logo.png">
+    <img alt="AxiomOS" height="200px" src="./image/logo.png">
   </a>
 </p>
 
