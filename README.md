@@ -19,27 +19,6 @@
     <img alt="License" src="https://img.shields.io/badge/license-MIT-blue"></a>
 </p>
 
-<p align="center">
-  <a href="https://axiomos-src.github.io>
-    <img alt="AxiomOS" height="200px" src="image/logo.png">
-  </a>
-</p>
-
----
-
-<h1 align="center">AxiomOS</h1>
-
-<p align=center>
-  <a href="https://axiomos-src.github.io>
-    <img alt="AxiomOS Website" src="https://img.shields.io/badge/AxiomOS-Website-blue"></a>
-  <a href="https://axiomos-src.github.io/downloads">
-    <img alt="Download AxiomOS" src="https://img.shields.io/badge/AxiomOS-Downloads-green"></a>
-  <a href="https//github.com/axiomos-src/axiomos">
-    <img alt="AxiomOS Source Code" src="https://img.shields.io/badge/AxiomOS-Source_code-red"></a>
-  <a href="https://github.com/axiomos-src/axiomos/blob/master/LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-blue"></a>
-</p>
-
 ## What is AxiomOS?
 AxiomOS is an open-source operating system built on the AxiomOS Kernel. The
 project started on 31 July 2025 with one goal: to pave a new path for
