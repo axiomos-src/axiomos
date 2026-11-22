@@ -85,6 +85,7 @@ rustup target add x86_64-unknown-none
 
 ## Building
 
+```
 git clone https://github.com/axiomos-src/axiomos.git
 cd axiomos
 
