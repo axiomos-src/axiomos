@@ -29,7 +29,7 @@ self-developed operating systems instead of re-implementing an existing one.
 > hardware may damage your data or leave the machine unbootable. Use a virtual
 > machine or a spare disk.
 
-- **Own design language, not a clone.** The GUI is built on *Aurora*, AxiomOS'
+- **Own design language, not a clone.** The GUI is built on *Aurora*, AxiomOS
   own design system (`gui/aurora/`). It is deliberately not a port of any
   existing desktop style; every widget, window frame and palette is defined
   in-tree under the `AXAU_` / `axau_` prefix.
