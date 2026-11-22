@@ -17,6 +17,7 @@
 #   make shot       boot headless, capture a screenshot to build/shot.ppm
 #   make count      count source lines by language
 #   make clean
+#   Thank you!
 
 ARCH      := x86_64
 BUILD     := build
