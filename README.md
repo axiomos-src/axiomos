@@ -101,9 +101,8 @@ The kernel is linked at `0x100000` with `arch/x86_64/linker.ld`; the resulting
 image is a plain ELF64 executable loaded by the UEFI loader from the ESP.
 
 The UEFI loader is built separately as a PE/COFF image, for example with
-`tools/build_loader.ps1` on a mingw host. It is copied into
-`build/esp/EFI/BOOT/BOOTX64.EFI` next to `build/esp/axiomos/kernel.elf`.
-```
+tools/build_loader.ps1` on a mingw host. It is copied into
+build/esp/EFI/BOOT/BOOTX64.EFI` next to `build/esp/axiomos/kernel.elf`.
 
 ## Running under QEMU
 
