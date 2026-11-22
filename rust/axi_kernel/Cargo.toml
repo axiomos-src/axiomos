@@ -1,0 +1,13 @@
+[package]
+name = "axi_kernel"
+version = "1.0.0"
+edition = "2021"
+
+[lib]
+name = "axi_kernel"
+crate-type = ["staticlib"]
+
+[dependencies]
+axi_rt = { path = "../axi_rt" }
+axi_crypto = { path = "../axi_crypto" }
+axi_hvci = { path = "../axi_hvci" }
